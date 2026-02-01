@@ -3,7 +3,6 @@
 A modern, responsive, and high-performance developer portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.  
 It features a premium "Dark Mode" aesthetic with glassmorphism effects, smooth animations, and a clean user experience.
 
-*(Note: Replace the above link with an actual screenshot of your hero section if available)*
 
 ## 🚀 Features
 
@@ -93,6 +92,4 @@ To change the primary colors or fonts, modify:
 -   **`tailwind.config.js`**: For color palette extensions.
 -   **`src/index.css`**: For global CSS variables and glassmorphism utilities.
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
