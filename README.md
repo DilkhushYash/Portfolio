@@ -3,7 +3,6 @@
 A modern, responsive, and high-performance developer portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.  
 It features a premium "Dark Mode" aesthetic with glassmorphism effects, smooth animations, and a clean user experience.
 
-![Portfolio Preview](./src/assets/profile.jpg) 
 *(Note: Replace the above link with an actual screenshot of your hero section if available)*
 
 ## 🚀 Features
