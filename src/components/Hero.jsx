@@ -44,7 +44,7 @@ const Hero = () => {
                         <span className="text-gradient">{PROFILE.name}</span>
                     </h1>
                     <p className="text-secondary text-[16px] sm:text-[18px] max-w-xl mx-auto leading-relaxed font-light">
-                        {PROFILE.bio}
+                        {PROFILE.heroBio}
                     </p>
                 </motion.div>
 

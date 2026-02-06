@@ -3,12 +3,13 @@ export const PROFILE = {
     name: "Yash Dilkhush",
     role: "Python Developer & Machine Learning Engineer",
     tagline: "Building intelligent systems with code and curiosity.",
-    bio: "I am a Third-year B.Tech Computer Science Engineering student with Honors in Artificial Intelligence and Machine Learning. Highly motivated to solve real-world problems using Python and deep learning, with practical experience in computer vision, robotics, and data-driven analysis.",
+    heroBio: "Third-year B.Tech CSE (AI & ML) student focused on building real-world AI solutions in computer vision, deep learning, and robotics.",
+    aboutBio: "I am a Third-year B.Tech Computer Science Engineering student with Honors in Artificial Intelligence and Machine Learning. I am highly motivated to solve real-world problems using Python and deep learning, with practical experience in computer vision, robotics, and data-driven analysis.",
     email: "yashdilkhush96@gmail.com",
     phone: "+91 8160357285",
     location: "Surat, Gujarat",
-    linkedin: "https://www.linkedin.com/in/dilkhush-yash/", 
-    github: "https://github.com/DilkhushYash", 
+    linkedin: "https://www.linkedin.com/in/dilkhush-yash/",
+    github: "https://github.com/DilkhushYash",
 };
 
 export const SKILLS = [

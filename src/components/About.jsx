@@ -62,7 +62,7 @@ const About = () => {
                         className="flex-1"
                     >
                         <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify">
-                            {PROFILE.bio}
+                            {PROFILE.aboutBio}
                         </p>
 
                         <div className="mt-8 flex flex-wrap gap-5">
